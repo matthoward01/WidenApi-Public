@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<WidenAPISettings>
+		<BaseUrl>https://xxxxxxxxx.widencollective.com/api/rest/asset/search/</BaseUrl>
+		<APIToken>xxxxxxxxxxx</APIToken>
+	</WidenAPISettings>
+	<MainSettings>		
+		<ErrorFolder>C:\Users\matt.howard\Desktop\Widen\Errors</ErrorFolder>
+		<IncomingFolder>C:\Users\matt.howard\Desktop\Widen\Incoming</IncomingFolder>
+		<OutputFolder>C:\Users\matt.howard\Desktop\Widen\Output</OutputFolder>
+		<DoneFolder>C:\Users\matt.howard\Desktop\Widen\\Done</DoneFolder>
+	</MainSettings>
+	<DelVehs>
+		<DelVeh id="">
+			<OutputPath>C:\Users\matt.howard\Desktop\Widen\717</OutputPath>
+		</DelVeh>
+		<DelVeh id="">
+			<OutputPath>C:\Users\matt.howard\Desktop\Widen\98C</OutputPath>
+		</DelVeh>
+		<DelVeh id="">
+			<OutputPath>C:\Users\matt.howard\Desktop\Widen\326</OutputPath>
+		</DelVeh>
+	</DelVehs>
+</Settings>
+
